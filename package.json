@@ -1,0 +1,7 @@
+{
+  "name": "cra-template-ts-static",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mifsan",
+  "license": "MIT"
+}
