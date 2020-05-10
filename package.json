@@ -1,7 +1,29 @@
 {
   "name": "cra-template-ts-static",
-  "version": "1.0.0",
-  "main": "index.js",
+  "version": "0.0.1",
   "author": "Mifsan",
-  "license": "MIT"
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "semanticui",
+    "static"
+  ],
+  "description": "The TS+Static+SemanticUI template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mifsan/cra-template-ts-static.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=10"
+  },
+  "bugs": {
+    "url": "https://github.com/mifsan/cra-template-ts-static/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
